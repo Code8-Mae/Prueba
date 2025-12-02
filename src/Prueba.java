@@ -6,6 +6,10 @@ public class Prueba {
 		System.out.println("Hola Mundo");
 		System.out.println("Nueva Línea");
 		System.out.println("Adios Mundo");
+		
+		int a = 2;
+		int b = 3;
+		int suma = a + b;
 	}
 
 }
